@@ -8,6 +8,7 @@ public class B {
 			if(i%2==1) {
 				System.out.println(i);
 		System.out.println("karthi");
+		System.out.println("Magesh");
 			}
 		}
 		
